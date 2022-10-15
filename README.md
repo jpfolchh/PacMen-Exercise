@@ -8,3 +8,6 @@ To run this project on your machine, simply copy the files contained within this
 
 ## Future Improvements:
 Future improvements to this project include changes to the individual colors and collective direction of the PacMen.
+
+## License:
+MIT Class Project. Please refer to the License file within this repository for further details.
